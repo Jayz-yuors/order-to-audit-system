@@ -1,0 +1,2 @@
+﻿id,order_id,taxable,cgst,sgst,igst,total,paid,dispatched
+1,1,7500.00,187.50,187.50,0.00,7875.00,4000.00,true

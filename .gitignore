@@ -1,0 +1,28 @@
+.env
+backend/.env
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/.pytest_cache/
+backend/acceptance_test.db
+frontend/node_modules/
+frontend/dist/
+*.pyc
+
+# Local databases and generated files
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+node_modules/
+dist/
+
+# Local environment files
+.env
+backend/.env
+
+# Local archives
+/backend.zip

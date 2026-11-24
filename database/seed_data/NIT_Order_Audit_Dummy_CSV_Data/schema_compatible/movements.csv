@@ -1,0 +1,15 @@
+﻿id,item_id,delta,source
+1,1,100.000,opening_stock: flour
+2,2,30.000,opening_stock: cooking oil
+3,3,5.000,opening_stock: spice mix
+4,4,500.000,opening_stock: pouches
+5,5,30.000,opening_stock: cartons
+6,6,50.000,opening_stock: finished murukku
+7,1,60.000,purchase: PUR-001 flour 60kg @45
+8,1,-40.000,production: RUN-001 flour issued
+9,2,-10.500,production: RUN-001 oil issued
+10,3,-1.200,production: RUN-001 spice issued
+11,4,-194.000,production: RUN-001 188 used + 6 damaged
+12,5,-9.000,production: RUN-001 cartons used
+13,6,188.000,production: RUN-001 good output
+14,6,-150.000,dispatch: INV-001 Retailer A

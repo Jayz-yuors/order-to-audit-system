@@ -1,0 +1,4 @@
+﻿audit_id,entity_type,entity_id,action,performed_by_user_id,event_time,details
+1,production_run,1,created,4,2026-11-25T10:00:00,Benchmark production run recorded
+2,invoice,1,created,1,2026-11-25T11:00:00,Retailer A GST invoice generated
+3,dispatch,1,posted,1,2026-11-25T11:30:00,150 packets dispatched

@@ -1,0 +1,3 @@
+﻿id,customer_id,salesman_id,qty,status,shortage
+1,1,2,150,dispatched,0
+2,2,3,120,pending_stock_shortage,32

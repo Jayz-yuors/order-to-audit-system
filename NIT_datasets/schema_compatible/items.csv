@@ -1,0 +1,7 @@
+﻿id,name,category,unit
+1,Flour,raw_material,kg
+2,Cooking oil,raw_material,litre
+3,Salt and spice mix,raw_material,kg
+4,200 g pouch,packaging,piece
+5,Carton (20 packets),packaging,piece
+6,Murukku 200 g finished goods,finished_goods,packet
